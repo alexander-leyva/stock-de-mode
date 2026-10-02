@@ -1,0 +1,41 @@
+id_prenda,nombre,categoria,talla,color,material_principal,costo_produccion,precio_venta
+1,Pantalon Zafiro,Pantalon,XL,Blanco,Lino,34.26,99.07
+2,Falda Nova,Falda,M,Verde olivo,Lana,105.95,279.87
+3,Chaqueta Bruma,Chaqueta,L,Azul marino,Seda,102.41,214.78
+4,Pantalon Eclipse,Pantalon,XS,Beige,Lino,70.1,168.57
+5,Chaqueta Bruma,Chaqueta,M,Rojo,Encaje,45.68,105.65
+6,Vestido Nova,Vestido,XS,Blanco,Encaje,105.29,289.8
+7,Vestido Luna,Vestido,S,Azul marino,Algodon,74.15,173.48
+8,Pantalon Luna,Pantalon,XL,Beige,Cuero sintetico,61.22,120.66
+9,Vestido Luna,Vestido,S,Rojo,Cuero sintetico,34.13,97.53
+10,Blusa Ceniza,Blusa,S,Verde olivo,Encaje,103.44,251.32
+11,Abrigo Ceniza,Abrigo,L,Negro,Cuero sintetico,111.8,215.09
+12,Blusa Bruma,Blusa,S,Negro,Encaje,93.47,238.87
+13,Pantalon Luna,Pantalon,XL,Negro,Seda,43.98,97.41
+14,Vestido Bruma,Vestido,M,Beige,Seda,56.46,124.83
+15,Falda Nova,Falda,S,Negro,Encaje,95.98,182.71
+16,Vestido Bruma,Vestido,XL,Beige,Encaje,62.19,120.25
+17,Abrigo Nova,Abrigo,M,Negro,Lana,73.93,172.71
+18,Chaqueta Ceniza,Chaqueta,XS,Blanco,Algodon,95.95,239.04
+19,Pantalon Zafiro,Pantalon,XS,Rojo,Lana,36.18,110.5
+20,Pantalon Ambar,Pantalon,M,Azul marino,Encaje,29.63,78.41
+21,Blusa Bruma,Blusa,L,Blanco,Algodon,77.88,215.94
+22,Blusa Ambar,Blusa,L,Rojo,Encaje,81.51,246.16
+23,Pantalon Ambar,Pantalon,L,Negro,Cuero sintetico,107.74,242.85
+24,Vestido Aurora,Vestido,L,Azul marino,Seda,38.93,93.35
+25,Falda Ceniza,Falda,XL,Negro,Lino,32.29,82.27
+26,Chaqueta Luna,Chaqueta,XS,Rojo,Seda,40.63,82.71
+27,Abrigo Aurora,Abrigo,S,Beige,Seda,41.66,89.39
+28,Blusa Aurora,Blusa,S,Blanco,Encaje,119.76,260.3
+29,Abrigo Ceniza,Abrigo,M,Verde olivo,Algodon,44.26,135.95
+30,Blusa Luna,Blusa,L,Beige,Lino,62.02,159.64
+31,Vestido Ceniza,Vestido,S,Verde olivo,Cuero sintetico,99.33,244.19
+32,Falda Ceniza,Falda,L,Beige,Cuero sintetico,24.48,72.69
+33,Blusa Nova,Blusa,M,Blanco,Lino,77.04,211.75
+34,Falda Luna,Falda,XS,Blanco,Seda,82.74,169.13
+35,Falda Luna,Falda,S,Beige,Encaje,92.2,192.95
+36,Chaqueta Bruma,Chaqueta,S,Negro,Cuero sintetico,73.3,186.29
+37,Pantalon Zafiro,Pantalon,XS,Negro,Lino,109.54,294.26
+38,Falda Bruma,Falda,XS,Rojo,Lino,103.9,311.58
+39,Vestido Bruma,Vestido,M,Verde olivo,Seda,97.46,266.71
+40,Falda Aurora,Falda,S,Blanco,Cuero sintetico,15.53,31.45
