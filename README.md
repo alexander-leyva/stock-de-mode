@@ -40,4 +40,4 @@ inventario-moda/
 
 ## Autor
 
-Proyecto desarrollado como parte de portafolio en Ciencia de Datos, combinando experiencia previa en diseno de modas con analisis y visualizacion de datos.
+Desarrollado por Alexander Leyva. Proyecto desarrollado como parte de portafolio en Ciencia de Datos, combinando experiencia previa en diseno de modas con analisis y visualizacion de datos.
